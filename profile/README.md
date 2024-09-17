@@ -46,10 +46,6 @@ Our goal is to empower health businesses to thrive by offering AI solutions that
 - Facebook: [OmniBody](https://www.facebook.com/people/Omnibody/61565597801055/)
 - LinkedIn: [OmniBody](https://www.linkedin.com/company/omnibody)
 
-## Location
-
-OmniBody is located in Jordan. Visit our [Google Maps location](https://www.google.com/maps/place/OmniBody) for more details.
-
 ---
 
 Transform your health business today with OmniBody's smart nutrition solutions!
