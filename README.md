@@ -1,6 +1,6 @@
 # OmniBody - Smart Nutrition for Health Businesses
 
-![OmniBody Logo](static/img/blueberry.png)
+![OmniBody Logo](blueberry.png)
 
 OmniBody is a revolutionary AI-powered software solution designed to boost profits, enhance brand image, optimize workflows, and increase customer volume for health-related businesses.
 
